@@ -1,10 +1,12 @@
 {
-    "Title": "Update Available⚡",
-    "versionCode": "37",
-    "versionName": "1.9.8",
-    "updateSize": "100 MB",
-    "releaseDate": "May 5, 2025",
-    "Msg": "🚀 New Features Added!\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
-    "downloadLink": "https://t.me/+udmTL-xOO1hiYjll"
-
+  "Title": "New Update Available",
+  "versionCode": "37",
+  "versionName": "1.9.7",
+  "updateSize": "40 MB",
+  "releaseDate": "July 15, 2025",
+  "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
+  "downloadLink": "https://t.me/c/3449963083/2",
+  "Browser link": "https://t.me/+udmTL-xOO1hiYjll",
+  "forceUpdate": true,
+  "Direct Function": true
 }
